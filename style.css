@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(26, 37, 31);
+    padding: 10px;
+    margin: 20px;
+}
+caption{
+    background-color: greenyellow;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    width: 200px;
+    height: 90px;
+    border-style: hidden ;
+    border: 1px solid grey; 
+    background-color: brown;
+}
+td{
+    width: 200px;
+    height: 90px;
+    border: 1px solid gray; 
+    background-color: mediumorchid;
+    padding: 0 10px;
+}
+.style{
+    margin-top: 15PX;
+}
+form{
+    
+    color: ivory;
+}
